@@ -1,0 +1,14 @@
+# Journal 6:
+
+Disini setelah saya memahami Crackme sebelumnya saya langsung mengerjakan 2 crack me lagi (Gegara sedikit adrenalin masih menggebu di hati)
+saya mengerjakan Crackme "Math Keygen" dan crackme "Illogical logic"
+
+#Math  Keygen
+crackme satu ini saya mulai dengan membuka dan memasukkan password seperti biasa, tetapi setelah mengetahui bahwa
+saya harus memahami apa itu Desimal dan perhitungan lainnya.
+setelah saya cari tahu lebih dalam saya menemukan bahwa Variabel uVar20 (hasil kalkulasi utama) harus sama persis dengan
+nilai Hexadecimal: 0x24347a11c16a54a6.
+seketika saya langsung saja berpikiran "Yowes bikin kalkulator aja di python agar dia yg ngitung sendiri" dan terjadilah kesalahan terbesar saja.
+setelah 2-3 jam saya membuat kode dan berpikir apa yang salah. terrnyata salah saya adalah tidak melihat lebih rinci kalau si pembuat
+Crackme math keygen ini adalah orang yang tahu isi pikiran saya, jadinya setiap saya menjalankan kode milik saya dia akan langsung memberikan respon
+"GET OUT" dan didalam kodenya ada string "Tidak semudah itu ferguso" jadi saya langsung saja
