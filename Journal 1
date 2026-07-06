@@ -1,0 +1,8 @@
+# Jurnal 1: Pengantar Reverse Engineering & Setup Lingkungan
+
+Minggu pertama ini berfokus pada pengenalan apa itu Reverse Engineering (RE) dan etika legalitasnya.
+RE bukan sekadar membongkar program, tetapi memahami cara kerjanya tanpa memiliki *source code* aslinya. 
+
+Hal paling penting yang ditekankan adalah keamanan.
+Oleh karena itu, saya menyiapkan "Virtual enviroment" khusus dengan menginstal sistem operasi Ubuntu di dalam Virtual Machine (VirtualBox).
+Lingkungan yang terisolasi ini sangat krusial agar OS utama saya tetap aman jika secara tidak sengaja mengeksekusi program berbahaya atau *malware* saat melakukan analisis ke depannya.
