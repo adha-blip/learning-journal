@@ -12,7 +12,7 @@ Tujuan dari repositori ini adalah untuk merekam proses pemahaman saya terhadap a
 Berikut adalah riwayat catatan pembelajaran yang telah saya susun selama satu semester:
 
 1. [Jurnal 1: Pengantar Pembelajran](Jurnal_1.md)
-2. [Jurnal 2: Pemahaman Dasar Arsitektur CPU & Register](Jurnal_2.md)
+2. [Jurnal 2: Add initial notes on Ubuntu and reverse engineering](Jurnal_2.md)
 3. [Jurnal 3: Mengenal Format File PE (Portable Executable)](Jurnal_3.md)
 4. [Jurnal 4: Pengenalan Tools Static Analysis](Jurnal_4.md)
 5. [Jurnal 5: Instalasi dan Eksplorasi Awal Ghidra](Jurnal_5.md)
