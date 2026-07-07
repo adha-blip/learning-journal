@@ -9,15 +9,15 @@ Repository ini berisi dokumentasi dan catatan belajar mingguan saya selama mengi
 Tujuan dari repositori ini adalah untuk merekam proses pemahaman saya terhadap analisis perangkat lunak tingkat rendah, mulai dari teori dasar hingga praktik menggunakan berbagai *tools* analisis.
 
 ## Daftar Jurnal Mingguan
-Berikut adalah riwayat catatan pembelajaran yang telah saya susun selama satu semester:
+Berikut adalah riwayat catatan pembelajaran yang telah saya susun selama 10 hari:
+Journal 1: Pengantar dan setup Virtual Enviroment
+Jounal 2: Pemahaman Ringan mengenai ubuntu
+Journal 3: Mempelajadi Ui ubuntu
+Journal 4: Ghidra Proses
+Journal 5: Pengerjaan Crackme "Half-Twin"
+Journal 6: mengerjakan Crackme "Math Keygen" dan crackme "Illogical logic"
+Journal 7: Melakukan analisis Lab
+Journal 8: Penyelesaian proses pembelajaran untuk saat ini
 
-1. [Jurnal 1: Pengantar Pembelajran](Jurnal_1.md)
-2. [Jurnal 2: Add initial notes on Ubuntu and reverse engineering](Jurnal_2.md)
-3. [Jurnal 3: Mengenal Format File PE (Portable Executable)](Jurnal_3.md)
-4. [Jurnal 4: Pengenalan Tools Static Analysis](Jurnal_4.md)
-5. [Jurnal 5: Instalasi dan Eksplorasi Awal Ghidra](Jurnal_5.md)
-6. [Jurnal 6: Membaca Pseudocode dan Alur Logika di Ghidra](Jurnal_6.md)
-7. [Jurnal 7: Pendalaman Logika Percabangan (Assembly vs Decompiler)](Jurnal_7.md)
-8. [Jurnal 8: Persiapan Analisis Program Sederhana (Crackme)](Jurnal_8.md)
 
 *Disclaimer: Semua analisis dan eksperimen yang didokumentasikan di sini dilakukan Murni hanya untuk belajar dan Pemahaman Pribadi.*
